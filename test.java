@@ -15,6 +15,7 @@ public class test {
         // create jlabel
 
         JLabel jl = new JLabel("Orchid College");
+        //jlabel is used for labelling
         jl.setSize(
                 100, 20);
 form.add(jl);
